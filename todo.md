@@ -10,3 +10,8 @@
 - [x] Inspect the notification overlay rendering in the shared app shell.
 - [x] Remove visible toast/notification overlays without deleting notification state.
 - [x] Verify the interface and save a checkpoint for delivery.
+
+## ResQplan naming update
+- [x] Inspect visible brand-name and metadata usage.
+- [x] Update the casing to “ResQplan” without altering the symbol or visual system.
+- [x] Verify the updated name and save a delivery checkpoint.
