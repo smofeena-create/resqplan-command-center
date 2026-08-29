@@ -15,3 +15,11 @@
 - [x] Inspect visible brand-name and metadata usage.
 - [x] Update the casing to “ResQplan” without altering the symbol or visual system.
 - [x] Verify the updated name and save a delivery checkpoint.
+
+## Connected workflow brief
+- [x] Audit current role navigation, shared state, and connected actions against the attached requirements.
+- [x] Add application-level profile, logout, switch-role confirmation, and refresh-safe session behavior.
+- [x] Connect organization data to authority, authority assignments to volunteer, volunteer citizen records to authority risk data, and responder status to authority monitoring.
+- [x] Expand the SIH Demo Mode flow and demo data coverage without replacing the existing design.
+- [x] Test the complete 2–3 minute cross-role workflow and fix dead ends or broken controls.
+- [ ] Save a checkpoint and deliver the updated website.
