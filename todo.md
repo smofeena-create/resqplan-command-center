@@ -23,3 +23,12 @@
 - [x] Expand the SIH Demo Mode flow and demo data coverage without replacing the existing design.
 - [x] Test the complete 2–3 minute cross-role workflow and fix dead ends or broken controls.
 - [ ] Save a checkpoint and deliver the updated website.
+
+## Before-during-after lifecycle extension
+- [x] Audit the remaining attached requirements against the current ResQplan implementation.
+- [x] Add recovery cases, recovery KPIs, prioritization explanations, status workflow, and recovery map markers.
+- [x] Add simulated Community Hazards data, marker details, and category layer controls.
+- [x] Remove Authority add-citizen controls while preserving volunteer collection and Authority read/search/filter access.
+- [x] Add a functional responder demo route from Rescue Station A to the assigned INC-1042 location with distance, ETA, and status update.
+- [x] Update role navigation to expose recovery and distinguish Authority-only, Volunteer-only, and Responder-only actions.
+- [x] Test the complete lifecycle flow, responsive layouts, build, and save a delivery checkpoint.
