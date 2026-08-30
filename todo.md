@@ -49,3 +49,9 @@
 - [x] Connect eligible beneficiaries to existing volunteer-collected household records and affected zones.
 - [x] Add optional Relief Distribution map layer with aggregated zone activity and no individual financial details.
 - [x] Test the complete after-disaster relief workflow, responsive layout, build, and save a deliverable checkpoint.
+
+## Public deployment verification
+- [ ] Inspect the active ResQplan checkpoint and current public domain mapping.
+- [ ] Validate the latest source/build and confirm all requested lifecycle features are present.
+- [ ] Republish the current latest version to the active public domain without reverting changes.
+- [ ] Verify the public URL from a clean external request and report the final live URL.
