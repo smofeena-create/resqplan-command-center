@@ -51,7 +51,13 @@
 - [x] Test the complete after-disaster relief workflow, responsive layout, build, and save a deliverable checkpoint.
 
 ## Public deployment verification
-- [ ] Inspect the active ResQplan checkpoint and current public domain mapping.
-- [ ] Validate the latest source/build and confirm all requested lifecycle features are present.
-- [ ] Republish the current latest version to the active public domain without reverting changes.
-- [ ] Verify the public URL from a clean external request and report the final live URL.
+- [x] Inspect the active ResQplan checkpoint and current public domain mapping.
+- [x] Validate the latest source/build and confirm all requested lifecycle features are present.
+- [x] Republish the current latest version to the active public domain without reverting changes.
+- [x] Verify the public URL from a clean external request and report the final live URL.
+
+## Current project public deployment
+- [ ] Inspect the current project checkpoint and existing public deployment.
+- [ ] Validate and save the latest current project changes.
+- [ ] Build and republish the existing public deployment.
+- [ ] Verify public access and report the exact live URL.
