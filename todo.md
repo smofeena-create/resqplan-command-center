@@ -32,3 +32,11 @@
 - [x] Add a functional responder demo route from Rescue Station A to the assigned INC-1042 location with distance, ETA, and status update.
 - [x] Update role navigation to expose recovery and distinguish Authority-only, Volunteer-only, and Responder-only actions.
 - [x] Test the complete lifecycle flow, responsive layouts, build, and save a delivery checkpoint.
+
+## Fund & Recovery Tracking
+- [x] Audit the complete funding brief and existing Recovery & Restoration implementation.
+- [x] Add recovery-project funding, evidence, verification, and audit state with Indian currency calculation.
+- [x] Add compact Fund & Recovery KPI dashboard, utilization visualization, and project table.
+- [x] Add expandable project detail with recovery timeline, evidence drawer, verify/reject, rejection reason, and delay alert.
+- [x] Add Authority-only create/update actions and connect projects to affected-zone recovery map markers.
+- [x] Test the SIH fund-tracking story, responsive layout, build, and save a delivery checkpoint.
