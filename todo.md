@@ -40,3 +40,12 @@
 - [x] Add expandable project detail with recovery timeline, evidence drawer, verify/reject, rejection reason, and delay alert.
 - [x] Add Authority-only create/update actions and connect projects to affected-zone recovery map markers.
 - [x] Test the SIH fund-tracking story, responsive layout, build, and save a delivery checkpoint.
+
+## Relief Fund Distribution
+- [x] Read the complete relief-distribution brief and audit existing recovery, volunteer, citizen, zone, and map flows.
+- [x] Add relief fund, zone allocation, beneficiary, distribution, evidence, verification, status, and filter models with calculated Indian currency values.
+- [x] Add Authority-only Relief Fund Distribution dashboard, allocation creation, filters, table, verification, rejection reason, and fund summary.
+- [x] Add Volunteer-only assigned relief view with distribution recording, demo evidence, and over-distribution validation.
+- [x] Connect eligible beneficiaries to existing volunteer-collected household records and affected zones.
+- [x] Add optional Relief Distribution map layer with aggregated zone activity and no individual financial details.
+- [x] Test the complete after-disaster relief workflow, responsive layout, build, and save a deliverable checkpoint.
